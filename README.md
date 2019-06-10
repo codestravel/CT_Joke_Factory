@@ -16,3 +16,8 @@ QQ交流群： 832979472
 
 希望有兴趣的小伙伴也可以加入进来，一起进步。
 
+
+
+项目文档，请参看：
+
+[文档](https://github.com/codestravel/CT_Joke_Factory/tree/master/dos)
